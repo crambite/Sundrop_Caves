@@ -9,3 +9,5 @@ Ver 3:
 added fully working portal system
 town menu implemented(only enter mine, map and exit working)
 fixed validation code
+Ver 4:
+mining, selling works
