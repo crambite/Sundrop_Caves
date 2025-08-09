@@ -20,7 +20,6 @@ prices['silver'] = (5, 8)
 prices['gold'] = (10, 18)
 
 
-
 class map:
     # This function loads a map structure (a nested list) from a file
     # It also updates MAP_WIDTH and MAP_HEIGHT
